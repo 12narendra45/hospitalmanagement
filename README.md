@@ -3,7 +3,7 @@
 ![App Banner](assets/screenshots/banner.png)
 
 A **Hospital Management System** built using **Flutter (frontend)** and **Node.js (backend)**.  
-This project is designed for **B.Tech students** as a **final-year project** or for anyone interested in learning **cross-platform healthcare applications**.
+
 
 ---
 
@@ -27,7 +27,7 @@ This project is designed for **B.Tech students** as a **final-year project** or 
 
 ---
 
-## 🧠 Thought Process (as a B.Tech Student)
+## 🧠 Thought Process 
 
 During hospital visits, it’s common to see:
 - Long waiting times for doctor appointments.  
@@ -44,7 +44,7 @@ This app was developed with the **objective of solving real-world healthcare pro
 - Node.js and MongoDB for **scalable backend**.  
 - REST APIs for **doctor-patient communication**.  
 
-This approach reflects how students can take a **problem statement → analyze → design → implement → test** workflow for academic + real-world projects.
+
 
 ---
 
@@ -58,7 +58,7 @@ This approach reflects how students can take a **problem statement → analyze �
 |------------------|----------------|-----------------|
 | ![](assets/screenshots/doctor_dashboard.png) | ![](assets/screenshots/upload.png) | ![](assets/screenshots/resources.png) |
 
-> All images and illustrations are **custom prompts generated** for medical UI consistency.  
+
 
 ---
 
@@ -85,23 +85,7 @@ cd hospitalmanagement
 flutter pub get
 ```
 
-#### 3️⃣ Add assets
-Make sure you have these images in your project:
-```
-assets/images/login.png
-assets/images/signup.png
-assets/images/patient_home.png
-assets/images/prescription.png
-assets/images/patient_profile.png
-assets/images/doctor_dashboard.png
-assets/images/upload.png
-assets/images/doctor_profile.png
-assets/images/approve_doctor.png
-assets/images/resources.png
-assets/images/add_doctor.png
-```
-
-#### 4️⃣ Setup Backend
+#### 3️⃣ Setup Backend
 - Navigate to the backend folder (`/backend`).  
 - Install dependencies:
 ```bash
@@ -112,7 +96,7 @@ npm install
 npm start
 ```
 
-#### 5️⃣ Run Flutter App
+#### 4️⃣ Run Flutter App
 ```bash
 flutter run
 ```
@@ -127,6 +111,4 @@ flutter run
 
 ---
 
-## 📝 License
-This project is for **educational purposes only**.  
-Free to use and modify for your academic project.  
+
